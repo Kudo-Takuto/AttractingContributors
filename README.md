@@ -17,4 +17,5 @@ Goal - I want contributors to help me list some favorite Manga.
 13. ONE PIECE
 14. Blue Exorcist
 15. dragon ball
+16. Naruto
 
